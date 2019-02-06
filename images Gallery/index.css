@@ -1,0 +1,17 @@
+.flexContainer{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 10px; 
+}
+.flexContainer>div img{
+padding:5px;
+border: solid lightgreen;
+border-radius:400px;   
+}
+h1{
+    position: absolute;
+    
+    
+}
+
