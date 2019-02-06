@@ -1,0 +1,28 @@
+.container{
+ 
+display: flex;
+justify-content: space-around;
+border: 1px solid;
+flex-direction: row;
+
+}
+
+.div1{
+
+flex-grow: 1;
+}
+.div2{
+flex-grow: 2;
+
+}
+.div3{
+    flex-grow: 3;
+
+}
+.div4{
+    flex-grow: 4;
+}
+.div5{
+    flex-grow: 5;
+
+}
